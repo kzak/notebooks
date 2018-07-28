@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+"flake8" = "*"
+neologdn = "*"
+gensim = "*"
+pytest = "*"
+numpy = "*"
+scipy = "*"
+pandas = "*"
+matplotlib = "*"
+jupyter = "*"
+"mecab-python3" = "*"
+nltk = "*"
+
+[dev-packages]
+"flake8" = "*"
+pylint = "*"
+yapf = "*"
+
+[requires]
+python_version = "3.7"
