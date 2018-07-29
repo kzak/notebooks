@@ -15,6 +15,7 @@ matplotlib = "*"
 jupyter = "*"
 "mecab-python3" = "*"
 nltk = "*"
+sklearn = "*"
 
 [dev-packages]
 "flake8" = "*"
