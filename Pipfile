@@ -16,6 +16,8 @@ jupyter = "*"
 "mecab-python3" = "*"
 nltk = "*"
 sklearn = "*"
+pyclustering = "*"
+pillow = "*"
 
 [dev-packages]
 "flake8" = "*"
