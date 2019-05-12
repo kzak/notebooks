@@ -23,6 +23,9 @@ lightgbm = "*"
 xgboost = "*"
 statsmodels = "*"
 numpy = "*"
+jupyterlab = "*"
+requests = "*"
+requests-oauthlib = "*"
 
 [dev-packages]
 "flake8" = "*"
