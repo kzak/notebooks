@@ -26,6 +26,7 @@ numpy = "*"
 jupyterlab = "*"
 requests = "*"
 requests-oauthlib = "*"
+pyknp = "*"
 
 [dev-packages]
 "flake8" = "*"
